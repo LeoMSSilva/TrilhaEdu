@@ -1,0 +1,64 @@
+*
+{
+	background: #e5e5e5;
+	color: #24282b;
+	padding: 0px;
+	margin: 0px;
+	font-size: 24px;
+	text-align: center;
+}
+
+header ul
+{
+	text-align: left;
+}
+header ul li
+{
+	height: 30px;
+	width: 80px;
+	font-size: 22px;
+	display: inline-block;
+	font-weight: 900;
+	border: 1px solid;
+	padding: 0px 5px;
+	margin: 20px 0px 100px 20px;
+}
+
+header form, #logado
+{
+	position: fixed;
+	top: 25px;
+	right: 25px;
+}
+
+header form input
+{
+	height: 30px;
+	width: 160px;
+	font-size: 19px;
+	background-color: #ccc;
+}
+
+#submit
+{
+	border-radius: 15px;
+	background-color: #700070;
+	color: #007070;
+}
+
+.aulas
+{
+	display: inline-block;
+	margin: 5px;
+	padding: 5px;
+}
+
+.aulas p
+{
+}
+
+.aulas iframe
+{
+	width: 360px;
+	height: 200px;
+}
